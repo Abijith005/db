@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "63f6ed4b342ca3fdd7d89daf"
+  },
+  "couponName": "X'MAS COUPON",
+  "couponCode": "sdfghj",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 1500,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1677888000000"
+    }
+  },
+  "couponStatus": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f6ed64342ca3fdd7d89db3"
+  },
+  "couponName": "WELCOME COUPON",
+  "couponCode": "CPCDWLCM",
+  "minPurchaseAmount": 5000,
+  "discountAmount": 500,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1682812800000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f6eda6342ca3fdd7d89dba"
+  },
+  "couponName": "ONAM COUPON",
+  "couponCode": "CPCDONM",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 700,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1676592000000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1677024000000"
+    }
+  },
+  "couponStatus": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641de843aa3b4d1948ee8be4"
+  },
+  "couponName": "X'MAS COUPON",
+  "couponCode": "sdfgh",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 1500,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641de865aa3b4d1948ee8be9"
+  },
+  "couponName": "WELCOME COUPON",
+  "couponCode": "CPCDWLCM",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 1500,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677801600000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679616000000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641deadcfe4b7f1a76aecf3e"
+  },
+  "couponName": "ONAM COUPON",
+  "couponCode": "werftgyh",
+  "minPurchaseAmount": 45,
+  "discountAmount": 55,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679616000000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641deb62fe4b7f1a76aecf4c"
+  },
+  "couponName": "mmm,",
+  "couponCode": "454545",
+  "minPurchaseAmount": 6565,
+  "discountAmount": 54545,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641debf8fe4b7f1a76aecf54"
+  },
+  "couponName": "X'MAS COUPON",
+  "couponCode": "sertyujjkm",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 150,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679616000000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641dede6fe4b7f1a76aecf6b"
+  },
+  "couponName": "X'MAS COUPON",
+  "couponCode": "CPCDXMASll",
+  "minPurchaseAmount": 10000,
+  "discountAmount": 150,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677888000000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679097600000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641e5daf8a2124b99778ff32"
+  },
+  "couponName": "ONAM COUPON",
+  "couponCode": "awerfghjm",
+  "minPurchaseAmount": 52852,
+  "discountAmount": 145,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1677715200000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641e5e248a2124b99778ff3c"
+  },
+  "couponName": "cfvgbn",
+  "couponCode": "jknmn",
+  "minPurchaseAmount": 42388,
+  "discountAmount": 45,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679702400000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641e60918a2124b99778ff48"
+  },
+  "couponName": "ONAM COUPON",
+  "couponCode": "CPCDWLC",
+  "minPurchaseAmount": 65656,
+  "discountAmount": 4545,
+  "startDate": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endDate": {
+    "$date": {
+      "$numberLong": "1679702400000"
+    }
+  },
+  "couponStatus": true,
+  "__v": 0
+}]

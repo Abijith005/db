@@ -1,0 +1,795 @@
+[{
+  "_id": {
+    "$oid": "63e7daa0c463d414f4ad5bdf"
+  },
+  "product_name": "Acer",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "ACER",
+  "product_Details": "Acer",
+  "price": 6199,
+  "flag": true,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Acer aspire.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676799478211-482994413.jpg",
+      "path": "public\\images\\image-1676799478211-482994413.jpg",
+      "size": 144131
+    }
+  ],
+  "sub_image": [
+    {
+      "fieldname": "sub_image",
+      "originalname": "product06.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "public/images",
+      "filename": "sub_image-1679306048475-796830326.jpg",
+      "path": "public\\images\\sub_image-1679306048475-796830326.jpg",
+      "size": 222902
+    },
+    null,
+    null
+  ],
+  "__v": 0,
+  "stockQuantity": 0,
+  "productReview": {
+    "totalStars": 6,
+    "totalCustomers": 2,
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "63e7dbdbec82ee93f53cbfc7"
+  },
+  "product_name": "Dell",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "DELL",
+  "product_Details": "Dell Inspiron 3520 Laptop,12th Gen Intel Core i5-1235U, Windows 11 + MSO'21, 8GB, 1TB HDD+ 56GB SSD, 15.6\" (39.62Cms) FHD WVA AG 120Hz 250 nits, Backlit KB, Silver (D560917WIN9S, 1.65Kgs)",
+  "price": 61412,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Dell Inspiron.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676139483254-993173878.jpg",
+      "path": "public\\images\\image-1676139483254-993173878.jpg",
+      "size": 80191
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0
+},{
+  "_id": {
+    "$oid": "63e7dd13b3f544ddc403744d"
+  },
+  "product_name": "HP",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "HP",
+  "product_Details": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fq2673TU",
+  "price": 42990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Hp 15s.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676139795377-569646417.jpg",
+      "path": "public\\images\\image-1676139795377-569646417.jpg",
+      "size": 247474
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0
+},{
+  "_id": {
+    "$oid": "63e7dd8ab3f544ddc403745d"
+  },
+  "product_name": "Lenovo",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "LENOVO",
+  "product_Details": "Lenovo ThinkPad E14 Intel Core i5 12th Gen 14\" FHD Thin and Light Laptop (16GB RAM/512GB SSD/Windows 11 Home/MS Office H&S 2021/FPR/Backlit Keyboard/Black/1.59 kg), 21E3S04W00",
+  "price": 74490,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Lenovo think pad.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676139914423-101110029.jpg",
+      "path": "public\\images\\image-1676139914423-101110029.jpg",
+      "size": 46555
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0,
+  "productReview": {
+    "totalStars": 190,
+    "totalCustomers": 45,
+    "rating": 4.222222222222222
+  }
+},{
+  "_id": {
+    "$oid": "63e7de28b3f544ddc403746d"
+  },
+  "product_name": "MacBook",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "APPLE",
+  "product_Details": "Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+  "price": 107990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Mac book.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676140072520-147652707.jpg",
+      "path": "public\\images\\image-1676140072520-147652707.jpg",
+      "size": 46380
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0
+},{
+  "_id": {
+    "$oid": "63e7de8db3f544ddc4037477"
+  },
+  "product_name": "Vivobook",
+  "category": "63e5184e4f22be438d296b1f",
+  "brandName": "VIVO BOOK",
+  "product_Details": "ASUS Vivobook 16X (2022), 16.0-inch (40.64 cms) FHD+ 16:10, AMD Ryzen 5 5600H, Thin and Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.80 kg), M1603QA-MB501WS",
+  "price": 48990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "vivo  book.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676140173613-475214395.jpg",
+      "path": "public\\images\\image-1676140173613-475214395.jpg",
+      "size": 99520
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0,
+  "productReview": {
+    "totalStars": 5,
+    "totalCustomers": 1,
+    "rating": 5
+  }
+},{
+  "_id": {
+    "$oid": "63e7df2eb3f544ddc4037482"
+  },
+  "product_name": "Apple",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "APPLE",
+  "product_Details": "Apple iPhone 14 Pro Max 128GB Deep Purple",
+  "price": 132990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "i phone 14.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676140334237-575309254.jpg",
+      "path": "public\\images\\image-1676140334237-575309254.jpg",
+      "size": 59074
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 28
+},{
+  "_id": {
+    "$oid": "63e7dfb4b3f544ddc403748e"
+  },
+  "product_name": "OnePlus",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "ONE PLUS",
+  "product_Details": "OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)",
+  "price": 61999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "One Plus.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676140468105-233929016.jpg",
+      "path": "public\\images\\image-1676140468105-233929016.jpg",
+      "size": 99317
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 23
+},{
+  "_id": {
+    "$oid": "63e7e1d3a6bbfbfb93c0e993"
+  },
+  "product_name": "Realme",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "REALME",
+  "product_Details": "realme Narzo 50 Pro 5G (Hyper Blue 6GB RAM+128GB Storage) Super AMOLED | Advanced Dimensity 920 5G Gaming Processor | 50% Charge in 31 min",
+  "price": 16999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Realme Narzo.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676141011848-907316688.jpg",
+      "path": "public\\images\\image-1676141011848-907316688.jpg",
+      "size": 196372
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 16
+},{
+  "_id": {
+    "$oid": "63e7e21fa6bbfbfb93c0e9a1"
+  },
+  "product_name": "Redmi",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "REDMI",
+  "product_Details": "Redmi K50i 5G (Phantom Blue, 8GB RAM, 256GB Storage)| Flagship Mediatek Dimensity 8100 Processor | 144Hz Liquid FFS Display",
+  "price": 26999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Redmi k50i.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676141087253-950291897.jpg",
+      "path": "public\\images\\image-1676141087253-950291897.jpg",
+      "size": 123756
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 15
+},{
+  "_id": {
+    "$oid": "63e7e294a6bbfbfb93c0e9b0"
+  },
+  "product_name": "Samsung",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "SAMSUNG",
+  "product_Details": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+  "price": 29999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "S galaxy S23.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676141204719-766533479.jpg",
+      "path": "public\\images\\image-1676141204719-766533479.jpg",
+      "size": 99720
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 9
+},{
+  "_id": {
+    "$oid": "63e7e2f3a6bbfbfb93c0e9c0"
+  },
+  "product_name": "Vivo",
+  "category": "63e518a84f22be438d296b23",
+  "brandName": "VIVO",
+  "product_Details": "iQOO Z6 Lite 5G by vivo (Stellar Green, 4GB RAM, 64GB Storage) | World's First Snapdragon 4 Gen 1 | 120Hz Refresh Rate | 5000mAh Battery | Travel Adapter to be Purchased Separately\r\n",
+  "price": 13999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Vivo v23.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676141299281-663101509.jpg",
+      "path": "public\\images\\image-1676141299281-663101509.jpg",
+      "size": 13999
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 16
+},{
+  "_id": {
+    "$oid": "63e838bad6e127c2a253d746"
+  },
+  "product_name": "boAt",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "BOAT",
+  "product_Details": "boAt Wave Call Smart Watch, Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69 HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes,HR,SpO2, IP68(Active Black)",
+  "price": 16999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "boat watch.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676163258886-515912709.jpg",
+      "path": "public\\images\\image-1676163258886-515912709.jpg",
+      "size": 106051
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 12
+},{
+  "_id": {
+    "$oid": "63e83a0ed6e127c2a253d779"
+  },
+  "product_name": "Fastrack",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "FASTRACK",
+  "product_Details": "Fastrack Reflex Vox Alexa Built-In 1.69 Ultravu Display 100+ Watchfaces 14+ Multisports 24X7 Hrm Sp02 Stress Monitor Sleep Tracker Womens Health",
+  "price": 4999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "fasttrack.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676163598236-485864202.jpg",
+      "path": "public\\images\\image-1676163598236-485864202.jpg",
+      "size": 100644
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 8
+},{
+  "_id": {
+    "$oid": "63e83aa6d6e127c2a253d78c"
+  },
+  "product_name": "Fire-Boltt",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "FIREBOLTT",
+  "product_Details": "Fire-Boltt Visionary 1.78\" AMOLED Bluetooth Calling Smartwatch with 368*448 Pixel Resolution 100+ Sports Mode, TWS Connection, Voice Assistance, SPO2 & Heart Rate Monitoring",
+  "price": 3799,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "fireboltt.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676163749983-900657311.jpg",
+      "path": "public\\images\\image-1676163749983-900657311.jpg",
+      "size": 160526
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 10
+},{
+  "_id": {
+    "$oid": "63e83b0bd6e127c2a253d7a0"
+  },
+  "product_name": "Apple",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "APPLE",
+  "product_Details": "Apple Watch Series 8 [GPS 41 mm] Smart Watch w/ Midnight Aluminium Case with Midnight Sport Band. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",
+  "price": 41999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "i Watch.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676163851306-8362722.jpg",
+      "path": "public\\images\\image-1676163851306-8362722.jpg",
+      "size": 87660
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 13
+},{
+  "_id": {
+    "$oid": "63e83b62d6e127c2a253d7b5"
+  },
+  "product_name": "Samsung",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "SAMSUNG",
+  "product_Details": "Samsung Galaxy Watch5 Bluetooth (44 mm, Graphite, Compatible with Android only)",
+  "price": 30071,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "samsung watch.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676163938723-125960799.jpg",
+      "path": "public\\images\\image-1676163938723-125960799.jpg",
+      "size": 32108
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 16
+},{
+  "_id": {
+    "$oid": "63e83bb7d6e127c2a253d7cb"
+  },
+  "product_name": "NoiseFit",
+  "category": "63e7d44ee4a5511cfc078cc0",
+  "brandName": "NOISE",
+  "product_Details": "NoiseFit Force Rugged Round Dial Bluetooth Calling Smart Watch with 1.32\" HD Screen, Functional Crown, 550 NITS, 7 Days Battery, AI Voice Assistance, 200+ Watch Faces, Heart Rate Tracker- (Jet Black)",
+  "price": 3999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Noise.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164023544-129646780.jpg",
+      "path": "public\\images\\image-1676164023544-129646780.jpg",
+      "size": 79998
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 15
+},{
+  "_id": {
+    "$oid": "63e83cefd6e127c2a253d7ec"
+  },
+  "product_name": "LG",
+  "category": "63e7d494e4a5511cfc078cc3",
+  "brandName": "LG",
+  "product_Details": "LG 126 cm (50 Inches) 4K Ultra HD Smart LED TV 50UQ8040PSB (Grey) (2022 Model)",
+  "price": 55999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Lg.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164335822-707332576.jpg",
+      "path": "public\\images\\image-1676164335822-707332576.jpg",
+      "size": 165051
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 17
+},{
+  "_id": {
+    "$oid": "63e83db8d6e127c2a253d81c"
+  },
+  "product_name": "Redmi",
+  "category": "63e7d494e4a5511cfc078cc3",
+  "brandName": "MI",
+  "product_Details": "Redmi 126 cm (50 inches) 4K Ultra HD Android Smart LED TV X50 | L50M6-RA (Black)",
+  "price": 29999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Redmi Tv.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164536880-574249427.jpg",
+      "path": "public\\images\\image-1676164536880-574249427.jpg",
+      "size": 92497
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 13,
+  "productReview": {
+    "totalStars": 4,
+    "totalCustomers": 1,
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "63e83e19d6e127c2a253d84c"
+  },
+  "product_name": "Samsung",
+  "category": "63e7d494e4a5511cfc078cc3",
+  "brandName": "SAMSUNG",
+  "product_Details": "Samsung 108 cm (43 inches) Crystal 4K Series Ultra HD Smart LED TV UA43AUE60AKLXL (Black)",
+  "price": 30999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "samsung Tv.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164633626-893784407.jpg",
+      "path": "public\\images\\image-1676164633626-893784407.jpg",
+      "size": 172979
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 10
+},{
+  "_id": {
+    "$oid": "63e83e79d6e127c2a253d868"
+  },
+  "product_name": "Sony",
+  "category": "63e7d494e4a5511cfc078cc3",
+  "brandName": "SONY",
+  "product_Details": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74K (Black)\r\n",
+  "price": 72990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "sony Tv.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164729565-501093622.jpg",
+      "path": "public\\images\\image-1676164729565-501093622.jpg",
+      "size": 177064
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 6,
+  "productReview": {
+    "totalStars": 9,
+    "totalCustomers": 2,
+    "rating": 4.5
+  }
+},{
+  "_id": {
+    "$oid": "63e83ec1d6e127c2a253d884"
+  },
+  "product_name": "TCL",
+  "category": "63e7d494e4a5511cfc078cc3",
+  "brandName": "TCL",
+  "product_Details": "TCL 126 cm (50 inches) 4K Ultra HD Certified Android Smart LED TV 50P615 (Black)\r\n",
+  "price": 26990,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "tcl.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164801393-672593925.jpg",
+      "path": "public\\images\\image-1676164801393-672593925.jpg",
+      "size": 120231
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0
+},{
+  "_id": {
+    "$oid": "63e83f47d6e127c2a253d8a1"
+  },
+  "product_name": "boAt",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "BOAT",
+  "product_Details": "boAt Nirvana 751 ANC Hybrid Active Noise Cancelling Bluetooth Wireless Over Ear Headphones with Up to 65H Playtime, ASAP Charge, Ambient Sound Mode, Immersive Sound, Carry Pouch with mic (Bold Blue)\r\n",
+  "price": 3999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "boat.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676164935268-648670976.jpg",
+      "path": "public\\images\\image-1676164935268-648670976.jpg",
+      "size": 54729
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 0
+},{
+  "_id": {
+    "$oid": "63e84021d6e127c2a253d8c4"
+  },
+  "product_name": "JBL",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "JBL",
+  "product_Details": "JBL Tune 760NC, Wireless Over Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Pure Bass, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Black)\r\n",
+  "price": 4499,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "JBL tune.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676165153368-191127089.jpg",
+      "path": "public\\images\\image-1676165153368-191127089.jpg",
+      "size": 84384
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 23
+},{
+  "_id": {
+    "$oid": "63e84090d6e127c2a253d8e3"
+  },
+  "product_name": "Macmerise",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "MACMERISE",
+  "product_Details": "Macmerise The Dark Knight On-Ear Bluetooth Headphone with Upto 10 Hours Playback, FM Radio, SD Card, Soft Padded Ear Cushions and Passive Noise Isolation | Decibel Wireless Headphone\r\n",
+  "price": 3999,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "macmerise.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676165264037-28584429.jpg",
+      "path": "public\\images\\image-1676165264037-28584429.jpg",
+      "size": 72203
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 18
+},{
+  "_id": {
+    "$oid": "63e840e5d6e127c2a253d903"
+  },
+  "product_name": "Skullcandy",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "SKULLCANDY",
+  "product_Details": "Skullcandy Hesh Evo Wireless Over-Ear Bluetooth Headphones for iPhone and Android with Mic / 36 Hour Battery Life/Great for Music, School, Workouts, and Gaming/Compact Travel Design - Black\r\n",
+  "price": 8448,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "skull candy.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676165349387-817668426.jpg",
+      "path": "public\\images\\image-1676165349387-817668426.jpg",
+      "size": 51358
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 17
+},{
+  "_id": {
+    "$oid": "63e8414dd6e127c2a253d942"
+  },
+  "product_name": "JBL",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "SONY",
+  "product_Details": "JBL Tune 760NC, Wireless Over Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Pure Bass, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Black)\r\n",
+  "price": 4499,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "sony.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676165453706-118733976.jpg",
+      "path": "public\\images\\image-1676165453706-118733976.jpg",
+      "size": 60619
+    }
+  ],
+  "sub_image": [],
+  "__v": 0,
+  "stockQuantity": 19,
+  "productReview": {
+    "totalStars": 0,
+    "totalCustomers": 1,
+    "rating": 0
+  }
+},{
+  "_id": {
+    "$oid": "63e8419ed6e127c2a253d964"
+  },
+  "product_name": "ZEBRONICS",
+  "category": "63e7d4b9e4a5511cfc078cc6",
+  "brandName": "ZEBRONICS",
+  "product_Details": "ZEBRONICS Zeb-Thunder Bluetooth Wireless Over The Ear Headphone FM, mSD, 9 hrs Playback with Mic (Blue with Red)",
+  "price": 2699,
+  "flag": false,
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Zebronics.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1676165534819-96604328.jpg",
+      "path": "public\\images\\image-1676165534819-96604328.jpg",
+      "size": 112362
+    }
+  ],
+  "sub_image": [
+    {
+      "fieldname": "sub_image",
+      "originalname": "boat.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "sub_image-1678679465139-765038909.jpg",
+      "path": "public\\images\\sub_image-1678679465139-765038909.jpg",
+      "size": 54729
+    },
+    {
+      "fieldname": "sub_image",
+      "originalname": "macmerise.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "sub_image-1678679465140-267012797.jpg",
+      "path": "public\\images\\sub_image-1678679465140-267012797.jpg",
+      "size": 72203
+    }
+  ],
+  "__v": 0,
+  "stockQuantity": 24,
+  "productReview": {
+    "totalStars": 4,
+    "totalCustomers": 4,
+    "rating": 1
+  }
+}]

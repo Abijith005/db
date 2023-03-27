@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "63e5184e4f22be438d296b1f"
+  },
+  "category": "Laptop",
+  "brandName": [
+    "ACER",
+    "LENOVO",
+    "DELL",
+    "HP",
+    "VIVO BOOK",
+    "APPLE"
+  ],
+  "flag": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e518a84f22be438d296b23"
+  },
+  "category": "Smart Phone",
+  "brandName": [
+    "REDMI",
+    "APPLE",
+    "ONE PLUS",
+    "REALME",
+    "SAMSUNG",
+    "VIVO"
+  ],
+  "flag": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e7d44ee4a5511cfc078cc0"
+  },
+  "category": "Smart Watches",
+  "brandName": [
+    "APPLE",
+    "FASTRACK",
+    "FIREBOLTT",
+    "NOISE",
+    "SAMSUNG",
+    "BOAT"
+  ],
+  "flag": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e7d494e4a5511cfc078cc3"
+  },
+  "category": "Smart TV",
+  "brandName": [
+    "MI",
+    "ONE PLUS",
+    "LG",
+    "SAMSUNG",
+    "SONY",
+    "TCL"
+  ],
+  "flag": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e7d4b9e4a5511cfc078cc6"
+  },
+  "category": "Head Phone",
+  "brandName": [
+    "BOAT",
+    "SKULLCANDY",
+    "ZEBRONICS",
+    "MACMERISE",
+    "JBL",
+    "SONY"
+  ],
+  "flag": false,
+  "__v": 0
+}]

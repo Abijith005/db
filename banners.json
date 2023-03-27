@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "641f3a68396751c63cd93942"
+  },
+  "bannerName": "Laptop Banner1",
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Laptop Banner.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1679768168421-952583563.jpg",
+      "path": "public\\images\\image-1679768168421-952583563.jpg",
+      "size": 1298139
+    }
+  ],
+  "target": "Laptop",
+  "flag": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642147a4eb8381baae4001d6"
+  },
+  "bannerName": "Laptop banner",
+  "image": [
+    {
+      "fieldname": "image",
+      "originalname": "Laptop Banner (2).jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "public/images",
+      "filename": "image-1679902628040-714543698.jpg",
+      "path": "public\\images\\image-1679902628040-714543698.jpg",
+      "size": 895187
+    }
+  ],
+  "target": "Laptop",
+  "flag": false,
+  "__v": 0
+}]
